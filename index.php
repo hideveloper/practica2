@@ -7,5 +7,6 @@
     <body>
         <p>Mi primer proyecto en Heroku + Github</p>
         <?php echo "La suma de 5 + 5 = ". (5 + 5); ?>
-    </body>
+         <p> Esto es otro parrafo </p>
+     </body>
 </html>
